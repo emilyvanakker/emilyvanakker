@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
 ### Welcome to my profile 👋
 
 - 🔭 I’m currently working on graduating.
@@ -9,4 +11,4 @@
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: .
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&theme=<THEME_NAME>" />
