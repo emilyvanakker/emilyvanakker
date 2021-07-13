@@ -1,4 +1,4 @@
-![Header](https://github.com/emilyvanakker/profile/blob/176aeddab5a098be8be51710309988a825835f5e/github_banner.png "Header")
+![Header](https://github.com/emilyvanakker/profile/blob/4cd6421ea03b65b95b674025e915b14f2bc3d441/github_banner.png "Header")
 - 🔭 I’m currently working on graduating.
 - 🌱 I’m currently learning Angular.
 - 💬 Ask me about my capstone project.
